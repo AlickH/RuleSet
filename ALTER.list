@@ -1,18 +1,18 @@
-东京-GMO-100Mbps-IPV6 = ss,118.27.28.148,23270,encrypt-method=rc4-md5,password=ooYYF1,udp-relay=true,tfo=true
-乌克兰1-100Mbps-大陆优化 = ss,195.123.209.107,23270,encrypt-method=rc4-md5,password=ooYYF1,udp-relay=true,tfo=true
-俄勒冈-原生IP-200Mbps = ss,23.224.52.39,23270,encrypt-method=rc4-md5,password=ooYYF1,udp-relay=true,tfo=true
-密苏里州-1Gbps-大陆优化-低倍率 = ss,66.85.77.66,23270,encrypt-method=rc4-md5,password=ooYYF1,udp-relay=true,tfo=true
-德国-德国黑森州-200mbps = ss,139.162.144.38,23270,encrypt-method=rc4-md5,password=ooYYF1,udp-relay=true,tfo=true
-新加坡1-100Mbps = ss,47.74.252.191,23270,encrypt-method=rc4-md5,password=ooYYF1,udp-relay=true,tfo=true
-新加坡2-GMO-100Mbps-ipv6 = ss,163.44.152.28,23270,encrypt-method=rc4-md5,password=ooYYF1,udp-relay=true,tfo=true
-新加坡3-GMO-100Mbps-ipv6 = ss,163.44.158.43,23270,encrypt-method=rc4-md5,password=ooYYF1,udp-relay=true,tfo=true
-新加坡5-CN2-100Mbps = ss,13.228.251.161,23270,encrypt-method=rc4-md5,password=ooYYF1,udp-relay=true,tfo=true
-波特兰1-NCP海缆-500Mbps = ss,194.56.226.12,23270,encrypt-method=rc4-md5,password=ooYYF1,udp-relay=true,tfo=true
-波特兰2-200Mbps-0.8倍率 = ss,23.224.52.57,23270,encrypt-method=rc4-md5,password=ooYYF1,udp-relay=true,tfo=true
-洛杉矶-1Gbps-高宽 = ss,161.129.41.74,23270,encrypt-method=rc4-md5,password=ooYYF1,udp-relay=true,tfo=true
-费利蒙-200Mbps-CN2 = ss,103.129.196.229,23270,encrypt-method=rc4-md5,password=ooYYF1,udp-relay=true,tfo=true
-费利蒙2-500Mbps-港区Netflix = ss,103.129.198.120,23270,encrypt-method=rc4-md5,password=ooYYF1,udp-relay=true,tfo=true
-韩国-CN2-1Gbps-Netflix = ss,52.79.172.42,23270,encrypt-method=rc4-md5,password=ooYYF1,udp-relay=true,tfo=true
-香港-NTT-1Gbps-亚洲优化 = ss,27.122.56.246,23270,encrypt-method=rc4-md5,password=ooYYF1,udp-relay=true,tfo=true
-香港-绕路-1Gbps-非CN2 = ss,172.86.73.152,23270,encrypt-method=rc4-md5,password=ooYYF1,udp-relay=true,tfo=true
-香港2-100Mbps = ss,193.110.201.186,23270,encrypt-method=rc4-md5,password=ooYYF1,udp-relay=true,tfo=true
+🇭🇰 香港-NTT-1Gbps-亚洲优化 = ss,27.122.56.246,23270,encrypt-method=rc4-md5,password=ooYYF1,udp-relay=true,tfo=true
+🇭🇰 香港-绕路-1Gbps-非CN2 = ss,172.86.73.152,23270,encrypt-method=rc4-md5,password=ooYYF1,udp-relay=true,tfo=true
+🇭🇰 香港-100Mbps = ss,193.110.201.186,23270,encrypt-method=rc4-md5,password=ooYYF1,udp-relay=true,tfo=true
+🇯🇵 东京-GMO-100Mbps-IPV6 = ss,118.27.28.148,23270,encrypt-method=rc4-md5,password=ooYYF1,udp-relay=true,tfo=true
+🇰🇷 韩国-CN2-1Gbps-Netflix = ss,52.79.172.42,23270,encrypt-method=rc4-md5,password=ooYYF1,udp-relay=true,tfo=true
+🇸🇬 新加坡-100Mbps = ss,47.74.252.191,23270,encrypt-method=rc4-md5,password=ooYYF1,udp-relay=true,tfo=true
+🇸🇬 新加坡-GMO-100Mbps-ipv6 = ss,163.44.152.28,23270,encrypt-method=rc4-md5,password=ooYYF1,udp-relay=true,tfo=true
+🇸🇬 新加坡2-GMO-100Mbps-ipv6 = ss,163.44.158.43,23270,encrypt-method=rc4-md5,password=ooYYF1,udp-relay=true,tfo=true
+🇸🇬 新加坡-CN2-100Mbps = ss,13.228.251.161,23270,encrypt-method=rc4-md5,password=ooYYF1,udp-relay=true,tfo=true
+🇺🇦 乌克兰-100Mbps-大陆优化 = ss,195.123.209.107,23270,encrypt-method=rc4-md5,password=ooYYF1,udp-relay=true,tfo=true
+🇺🇸 俄勒冈-原生IP-200Mbps = ss,23.224.52.39,23270,encrypt-method=rc4-md5,password=ooYYF1,udp-relay=true,tfo=true
+🇺🇸 密苏里州-1Gbps-大陆优化-低倍率 = ss,66.85.77.66,23270,encrypt-method=rc4-md5,password=ooYYF1,udp-relay=true,tfo=true
+🇺🇸 波特兰-NCP海缆-500Mbps = ss,194.56.226.12,23270,encrypt-method=rc4-md5,password=ooYYF1,udp-relay=true,tfo=true
+🇺🇸 波特兰-200Mbps-0.8倍率 = ss,23.224.52.57,23270,encrypt-method=rc4-md5,password=ooYYF1,udp-relay=true,tfo=true
+🇺🇸 洛杉矶-1Gbps-高宽 = ss,161.129.41.74,23270,encrypt-method=rc4-md5,password=ooYYF1,udp-relay=true,tfo=true
+🇺🇸 费利蒙-200Mbps-CN2 = ss,103.129.196.229,23270,encrypt-method=rc4-md5,password=ooYYF1,udp-relay=true,tfo=true
+🇺🇸 费利蒙-500Mbps-港区Netflix = ss,103.129.198.120,23270,encrypt-method=rc4-md5,password=ooYYF1,udp-relay=true,tfo=true
+🇩🇪 德国-德国黑森州-200mbps = ss,139.162.144.38,23270,encrypt-method=rc4-md5,password=ooYYF1,udp-relay=true,tfo=true
