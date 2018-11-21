@@ -1,11 +1,33 @@
 // HBO
-DOMAIN-KEYWORD,hbo,NF-HBO
+USER-AGENT,HBO%20NOW*
+DOMAIN-SUFFIX,hbo.com
+DOMAIN-SUFFIX,hbogo.com
+
+// HBO Go
+DOMAIN-SUFFIX,hbogoasia.hk
+
 // Netflix
-USER-AGENT,Argo*,NF-HBO
-DOMAIN-KEYWORD,nflx,NF-HBO
-DOMAIN-KEYWORD,netflix,NF-HBO
-// Foxnow
-DOMAIN-SUFFIX,fox.com,NF-HBO
-DOMAIN-SUFFIX,.foxdcg.com,NF-HBO
-DOMAIN-SUFFIX,foxnow.com,NF-HBO
-DOMAIN-SUFFIX,config.fox.com,NF-HBO
+USER-AGENT,Argo*
+DOMAIN-SUFFIX,netflix.com
+DOMAIN-SUFFIX,netflix.net
+DOMAIN-SUFFIX,nflxext.com
+DOMAIN-SUFFIX,nflximg.com
+DOMAIN-SUFFIX,nflximg.net
+DOMAIN-SUFFIX,nflxso.net
+DOMAIN-SUFFIX,nflxvideo.net
+
+// Fox+
+USER-AGENT,FOX%20NOW*
+USER-AGENT,FOXPlus*
+DOMAIN-KEYWORD,foxplus
+DOMAIN-SUFFIX,config.fox.com
+DOMAIN-SUFFIX,emome.net
+DOMAIN-SUFFIX,fox.com
+DOMAIN-SUFFIX,foxdcg.com
+DOMAIN-SUFFIX,foxnow.com
+DOMAIN-SUFFIX,foxplus.com
+DOMAIN-SUFFIX,foxplay.com
+DOMAIN-SUFFIX,ipinfo.io
+DOMAIN-SUFFIX,mstage.io
+DOMAIN-SUFFIX,now.com
+DOMAIN-SUFFIX,theplatform.com
