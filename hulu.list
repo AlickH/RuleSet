@@ -1,5 +1,10 @@
-//Amazon prime video
-DOMAIN-KEYWORD,amazon
-DOMAIN-KEYWORD,llnwd
-// HULU
-DOMAIN-KEYWORD,hulu
+// Amazon Prime Video
+USER-AGENT,Prime%20Video*
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,amazonvideo.com
+
+// Hulu
+USER-AGENT,Hulu*
+DOMAIN-SUFFIX,happyon.jp
+DOMAIN-SUFFIX,hulu.com
+DOMAIN-SUFFIX,huluim.com
