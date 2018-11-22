@@ -1,6 +1,0 @@
-🇯🇵 东京-GMO-100Mbps-IPV6 = ss,118.27.28.148,23270,encrypt-method=rc4-md5,password=ooYYF1,udp-relay=true,tfo=true
-🇯🇵 东京-100Mbps-原生-IPV6 = ss,118.27.30.84,23270,encrypt-method=rc4-md5,password=ooYYF1,udp-relay=true,tfo=true
-🇯🇵 东京-100Mbps-原生IP = ss,118.27.36.175,23270,encrypt-method=rc4-md5,password=ooYYF1,udp-relay=true,tfo=true
-🇺🇸 洛杉矶-SSD固态硬盘-500Mbps = ss,45.35.95.6,23270,encrypt-method=rc4-md5,password=ooYYF1,udp-relay=true,tfo=true
-🇺🇸 洛杉矶Psychz-100Mbps-SSD = ss,45.35.95.15,23270,encrypt-method=rc4-md5,password=ooYYF1,udp-relay=true,tfo=true
-🇰🇷 韩国-CN2-1Gbps-Netflix = ss,52.79.172.42,23270,encrypt-method=rc4-md5,password=ooYYF1,udp-relay=true,tfo=true
