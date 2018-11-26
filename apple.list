@@ -1,0 +1,54 @@
+#domain-apple
+DOMAIN,swscan.apple.com
+DOMAIN,ocsp.apple.com
+DOMAIN,apsu.apple.com // tc update
+DOMAIN,setup.icloud.com
+DOMAIN,xp.apple.com
+DOMAIN,gsa.apple.com
+DOMAIN,gsas.apple.com
+DOMAIN,se.itunes.apple.com
+DOMAIN,sp.itunes.apple.com
+DOMAIN,itunes.apple.com
+DOMAIN,init.itunes.apple.com
+DOMAIN,audio.itunes.apple.com
+DOMAIN,iosapps.itunes.apple.com
+DOMAIN,beta.itunes.apple.com
+DOMAIN,osxapps.itunes.apple.com
+DOMAIN,identity.apple.com
+DOMAIN-SUFFIX,ls.apple.com
+DOMAIN-SUFFIX,gs-loc.apple.com
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,apple.com
+
+#domain-suffix-apple
+DOMAIN-SUFFIX,ess.apple.com
+DOMAIN-SUFFIX,gc.apple.com
+DOMAIN-SUFFIX,swcdn.apple.com
+DOMAIN-SUFFIX,blobstore.apple.com
+DOMAIN-SUFFIX,configuration.apple.com
+DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-SUFFIX,easytimetv.com
+DOMAIN-SUFFIX,edgesuite.net
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,phobos.apple.com
+DOMAIN-SUFFIX,trailers.apple.com
+DOMAIN-SUFFIX,cddbp.net
+DOMAIN-SUFFIX,mail.me.com
+DOMAIN-SUFFIX,symcd.coms
+
+#process-name-apple
+PROCESS-NAME,App Store
+PROCESS-NAME,TVAppStore*
+PROCESS-NAME,Mac+OS+X
+PROCESS-NAME,Mail //macOS Mail
+PROCESS-NAME,cloudd* // iCloud
+PROCESS-NAME,TVMovies* // iTunes
+PROCESS-NAME,*MacAppStore* // iTunes
+PROCESS-NAME,App Store // MacAppStore
+
+#ATV
+DOMAIN,lcdn-locator.apple.com
+DOMAIN,sylvan.apple.com
