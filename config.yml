@@ -15,9 +15,9 @@ Proxy:
 - name: "SS2"
   type: ss
   server: hbo.mayuzumi.me
-  port: 2333
-  cipher: xchacha20-ietf-poly1305
-  password: 19890826
+  port: 123
+  cipher: chacha20-ietf-poly1305
+  password: 123456
 Proxy Group:
 - name: Auto
   type: url-test
