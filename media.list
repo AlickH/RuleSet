@@ -26,8 +26,6 @@ DOMAIN-SUFFIX,hbogoasia.hk
 USER-AGENT,Prime%20Video*
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,amazonvideo.com
-DOMAIN-KEYWORD,llnwd
-DOMAIN-KEYWORD,cloudfront
 
 // Fox+
 USER-AGENT,FOX%20NOW*
