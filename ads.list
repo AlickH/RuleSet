@@ -231,7 +231,6 @@ DOMAIN,syndication.streamads.yahoo.com
 
 #domain-keywork-reject
 DOMAIN-KEYWORD,trace
-DOMAIN-KEYWORD,traffic
 DOMAIN-KEYWORD,usage
 DOMAIN-KEYWORD,openx
 DOMAIN-KEYWORD,admob
