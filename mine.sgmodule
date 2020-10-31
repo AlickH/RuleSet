@@ -19,3 +19,12 @@ DOMAIN,ocsp.apple.com,PROXY
 DOMAIN,router.asus.com,DIRECT
 DOMAIN,api.weather.com,PROXY
 DOMAIN-KEYWORD,githubusercontent,PROXY
+
+# Apple News
+USER-AGENT,AppleNews*,BWG
+DOMAIN-SUFFIX,apple.news,BWG
+DOMAIN,news-events.apple.com,BWG
+DOMAIN,news-edge.apple.com,BWG
+DOMAIN,apple.comscoreresearch.com,BWG
+DOMAIN,play.itunes.apple.com,BWG
+DOMAIN,play-cdn.itunes-apple.com.akadns.net,BWG
