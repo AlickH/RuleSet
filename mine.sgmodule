@@ -16,7 +16,6 @@ DOMAIN-KEYWORD,dubox,BWG
 DOMAIN-KEYWORD,cscec,DIRECT
 DOMAIN-KEYWORD,v2ex,PROXY
 DOMAIN-SUFFIX,pluto.tv,BWG
-DOMAIN,ocsp.apple.com,BWG
 DOMAIN,router.asus.com,DIRECT
 DOMAIN,api.weather.com,PROXY
 DOMAIN-KEYWORD,githubusercontent,BWG
