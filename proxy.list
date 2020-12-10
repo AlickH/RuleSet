@@ -1,16 +1,10 @@
 #domain-proxy
 DOMAIN,app.adjust.com
 DOMAIN,api.weather.com
-DOMAIN,dns.v2ex.com
-DOMAIN,api.weather.com
-
 DOMAIN,t.co
 DOMAIN,bit.ly
-
 DOMAIN,wl.dlservice.microsoft.com,force-remote-dns
 DOMAIN,officeclient.microsoft.com,force-remote-dns
-
-#JB
 DOMAIN,apt.thebigboss.org
 
 #domain-keywork-proxy
@@ -55,6 +49,7 @@ DOMAIN-KEYWORD,ttvnw
 DOMAIN-KEYWORD,telegram
 DOMAIN-KEYWORD,spotify
 DOMAIN-KEYWORD,github
+DOMAIN-KEYWORD,v2ex
 
 DOMAIN-SUFFIX,us
 DOMAIN-SUFFIX,uk
@@ -67,7 +62,6 @@ DOMAIN-SUFFIX,co
 DOMAIN-SUFFIX,cc
 DOMAIN-SUFFIX,gl
 DOMAIN-SUFFIX,fr
-#
 DOMAIN-SUFFIX,0to255.com
 DOMAIN-SUFFIX,1-apple.com.tw
 DOMAIN-SUFFIX,1024.inc.gs
