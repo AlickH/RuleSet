@@ -1,4 +1,0 @@
-// Amazon Prime Video
-USER-AGENT,Prime%20Video*
-DOMAIN-SUFFIX,amazonaws.com
-DOMAIN-SUFFIX,amazonvideo.com
