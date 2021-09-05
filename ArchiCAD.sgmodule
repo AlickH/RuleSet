@@ -1,7 +1,7 @@
 #!name=Graphisoft Anti-license checks by Up7
 #!desc=ArchiCAD Crack
 
-
+[Rule]
 DOMAIN,wit-ams-cloudservice.cloudapp.net,REJECT
 DOMAIN,licensemanager.graphisoft.com,REJECT
 DOMAIN,licensemanager-test.graphisoft.com,REJECT
