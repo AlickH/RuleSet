@@ -1,0 +1,29 @@
+#!name=Graphisoft Anti-license checks by Up7
+#!desc=ArchiCAD Crack
+
+
+DOMAIN,wit-ams-cloudservice.cloudapp.net,REJECT
+DOMAIN,licensemanager.graphisoft.com,REJECT
+DOMAIN,licensemanager-test.graphisoft.com,REJECT
+DOMAIN,bimx-api.graphisoft.com,REJECT
+DOMAIN,licensemanager-subtest.graphisoft.com,REJECT
+DOMAIN,graphisoftid-subtest.graphisoft.com,REJECT
+DOMAIN,graphisoftid-test.graphisoft.com,REJECT
+DOMAIN,graphisoftid.graphisoft.com,REJECT
+DOMAIN,ruleservice-api-subscr-test.graphisoft.com,REJECT
+DOMAIN,ruleservice-api-test.graphisoft.com,REJECT
+DOMAIN,ruleservice-api.graphisoft.com,REJECT
+DOMAIN,license-manager-api.azurewebsites.net,REJECT
+DOMAIN,waws-prod-am2-069.vip.azurewebsites.windows.net,REJECT
+DOMAIN,waws-prod-am2-069.cloudapp.net,REJECT
+DOMAIN,e5486.g.akamaiedge.net,REJECT
+DOMAIN,e8218.dscb1.akamaiedge.net,REJECT
+DOMAIN,e5486.g.akamaiedge.net,REJECT
+DOMAIN,par10s22-in-f232.1e100.net,REJECT
+DOMAIN,par10s28-in-f8.1e100.net,REJECT
+DOMAIN,par10s34-in-f8.1e100.net,REJECT
+DOMAIN,gs-com.cloudapp.net,REJECT
+DOMAIN,usagelogger.graphisoft.com,REJECT
+DOMAIN,poneytelecom.eu,REJECT
+DOMAIN,swupdate.graphisoft.com,REJECT
+DOMAIN,redirect.graphisoft.com,REJECT
