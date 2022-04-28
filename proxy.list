@@ -8,6 +8,7 @@ DOMAIN,officeclient.microsoft.com,force-remote-dns
 DOMAIN,apt.thebigboss.org
 
 #domain-keywork-proxy
+DOMAIN-KEYWORD,bandwagonhost
 DOMAIN-KEYWORD,zhenhunxiaoshuo
 DOMAIN-KEYWORD,phncdn
 DOMAIN-KEYWORD,reddit
