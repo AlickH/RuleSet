@@ -8,6 +8,7 @@ DOMAIN,officeclient.microsoft.com,force-remote-dns
 DOMAIN,apt.thebigboss.org
 
 #domain-keywork-proxy
+DOMAIN-KEYWORD,evernote
 DOMAIN-KEYWORD,pixiv
 DOMAIN-KEYWORD,v2ex
 DOMAIN-KEYWORD,bandwagonhost
