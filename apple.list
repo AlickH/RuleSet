@@ -1,4 +1,5 @@
 #domain-apple
+DOMAIN-KEYWORD,apple
 DOMAIN,swscan.apple.com
 DOMAIN,ocsp.apple.com
 DOMAIN,apsu.apple.com // tc update
