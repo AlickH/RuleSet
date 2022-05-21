@@ -8,16 +8,20 @@ IP-CIDR,172.34.212.89/32,DIRECT,no-resolve
 IP-CIDR,172.30.201.66/32,DIRECT,no-resolve
 IP-CIDR,172.30.201.27/32,DIRECT,no-resolve
 IP-CIDR,172.34.212.142/32,DIRECT,no-resolve
-DOMAIN-KEYWORD,imgur,mine
-DOMAIN-KEYWORD,dubox,mine
-DOMAIN-SUFFIX,pluto.tv,mine
-DOMAIN-KEYWORD,v2ex,mine
+DOMAIN-KEYWORD,imgur,US
+DOMAIN-KEYWORD,dubox,US
+DOMAIN-SUFFIX,pluto.tv,US
+DOMAIN-KEYWORD,v2ex,US
 
-# Apple News
-USER-AGENT,AppleNews*,mine
-DOMAIN-SUFFIX,apple.news,mine
-DOMAIN,news-events.apple.com,mine
-DOMAIN,news-edge.apple.com,mine
-DOMAIN,apple.comscoreresearch.com,mine
-DOMAIN,play.itunes.apple.com,mine
-DOMAIN,play-cdn.itunes-apple.com.akadns.net,mine
+# > Apple News
+DOMAIN,gspe1-ssl.ls.apple.com,US
+PROCESS-NAME,News,US
+USER-AGENT,AppleNews*,US
+USER-AGENT,News*,US
+USER-AGENT,com.apple.news*,US
+DOMAIN-SUFFIX,apple.news,US
+DOMAIN,news-assets.apple.com,US
+DOMAIN,news-client.apple.com,US
+DOMAIN,news-edge.apple.com,US
+DOMAIN,news-events.apple.com,US
+DOMAIN,apple.comscoreresearch.com,US
