@@ -13,14 +13,14 @@ IP-CIDR,172.30.213.250/32,DIRECT,no-resolve
 DOMAIN-KEYWORD,CSCEC,DIRECT
 
 # > Apple News
-DOMAIN,gspe1-ssl.ls.apple.com,US
-PROCESS-NAME,News,US
-USER-AGENT,AppleNews*,US
-USER-AGENT,News*,US
-USER-AGENT,com.apple.news*,US
-DOMAIN-SUFFIX,apple.news,US
-DOMAIN,news-assets.apple.com,US
-DOMAIN,news-client.apple.com,US
-DOMAIN,news-edge.apple.com,US
-DOMAIN,news-events.apple.com,US
-DOMAIN,apple.comscoreresearch.com,US
+DOMAIN,gspe1-ssl.ls.apple.com,mine
+PROCESS-NAME,News,mine
+USER-AGENT,AppleNews*,mine
+USER-AGENT,News*,mine
+USER-AGENT,com.apple.news*,mine
+DOMAIN-SUFFIX,apple.news,mine
+DOMAIN,news-assets.apple.com,mine
+DOMAIN,news-client.apple.com,mine
+DOMAIN,news-edge.apple.com,mine
+DOMAIN,news-events.apple.com,mine
+DOMAIN,apple.comscoreresearch.com,mine
