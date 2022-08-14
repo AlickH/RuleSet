@@ -1,0 +1,217 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png", CCTV1
+https://www.whalenas.com/mgik/index.php?id=cctv1
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png", CCTV2
+https://www.whalenas.com/mgik/index.php?id=cctv2
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png", CCTV3
+https://www.whalenas.com/mgik/index.php?id=cctv3
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png", CCTV4
+https://www.whalenas.com/mgik/index.php?id=cctv4
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4-美洲" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png", CCTV4-美洲
+https://www.whalenas.com/mgik/index.php?id=cctv4a
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png", CCTV5
+https://www.whalenas.com/mgik/index.php?id=cctv5
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png", CCTV5+
+https://www.whalenas.com/mgik/index.php?id=cctv5p
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png", CCTV6
+https://www.whalenas.com/mgik/index.php?id=cctv6
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png", CCTV7
+https://www.whalenas.com/mgik/index.php?id=cctv7
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png", CCTV8
+https://www.whalenas.com/mgik/index.php?id=cctv8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png", CCTV9
+https://www.whalenas.com/mgik/index.php?id=cctv9
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png", CCTV10
+https://www.whalenas.com/mgik/index.php?id=cctv10
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png", CCTV11
+https://www.whalenas.com/mgik/index.php?id=cctv11
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png", CCTV12
+https://www.whalenas.com/mgik/index.php?id=cctv12
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png", CCTV13
+https://www.whalenas.com/mgik/index.php?id=cctv13
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png", CCTV15
+https://www.whalenas.com/mgik/index.php?id=cctv15
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png", CCTV16
+https://www.whalenas.com/mgik/index.php?id=cctv16
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png", CCTV16
+https://www.whalenas.com/mgik/index.php?id=cctv16b
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png", CCTV17
+https://www.whalenas.com/mgik/index.php?id=cctv17hd
+#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://epg.112114.xyz/logo/CGTN纪录.png", CGTN纪录
+https://www.whalenas.com/mgik/index.php?id=cgtnjl
+#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://epg.112114.xyz/logo/CGTN法语.png", CGTN法语
+https://www.whalenas.com/mgik/index.php?id=cgtnf
+#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://epg.112114.xyz/logo/CGTN西语.png", CGTN西语
+https://www.whalenas.com/mgik/index.php?id=cgtne
+#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://epg.112114.xyz/logo/CGTN阿语.png", CGTN阿语
+https://www.whalenas.com/mgik/index.php?id=cgtna
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://epg.112114.xyz/logo/CGTN俄语.png", CGTN俄语
+https://www.whalenas.com/mgik/index.php?id=cgtnr
+#EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1" tvg-logo="https://epg.112114.xyz/logo/中国教育1台.png", 中国教育1
+https://www.whalenas.com/mgik/index.php?id=cetv1
+#EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1HD" tvg-logo="https://epg.112114.xyz/logo/中国教育1台.png", 中国教育1HD
+https://www.whalenas.com/mgik/index.php?id=cetv1hd
+#EXTINF:-1 tvg-id="中国教育2台" tvg-name="中国教育2" tvg-logo="https://epg.112114.xyz/logo/中国教育2台.png", 中国教育2
+https://www.whalenas.com/mgik/index.php?id=cetv2
+#EXTINF:-1 tvg-id="中国教育3台" tvg-name="中国教育3" tvg-logo="https://epg.112114.xyz/logo/中国教育3台.png", 中国教育3
+https://www.whalenas.com/mgik/index.php?id=cetv3
+#EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4" tvg-logo="https://epg.112114.xyz/logo/中国教育4台.png", 中国教育4
+https://www.whalenas.com/mgik/index.php?id=cetv4
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png", CHC动作电影
+https://www.whalenas.com/mgik/index.php?id=chcdzdy
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png", CHC家庭影院
+https://www.whalenas.com/mgik/index.php?id=chcjtyy
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png", 北京卫视
+https://www.whalenas.com/mgik/index.php?id=bjws
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png", 东方卫视
+https://www.whalenas.com/mgik/index.php?id=dfws
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png", 黑龙江卫视
+https://www.whalenas.com/mgik/index.php?id=hljws
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png", 吉林卫视
+https://www.whalenas.com/mgik/index.php?id=jlws
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png", 辽宁卫视
+https://www.whalenas.com/mgik/index.php?id=lnws
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.112114.xyz/logo/甘肃卫视.png", 甘肃卫视
+https://www.whalenas.com/mgik/index.php?id=gsws
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://epg.112114.xyz/logo/青海卫视.png", 青海卫视
+https://www.whalenas.com/mgik/index.php?id=qhws
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png", 河北卫视
+https://www.whalenas.com/mgik/index.php?id=hbws
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png", 湖北卫视
+https://www.whalenas.com/mgik/index.php?id=hubws
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png", 湖南卫视
+https://www.whalenas.com/mgik/index.php?id=hunws
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png", 江西卫视
+https://www.whalenas.com/mgik/index.php?id=jxws
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png", 江苏卫视
+https://www.whalenas.com/mgik/index.php?id=jsws
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png", 东南卫视
+https://www.whalenas.com/mgik/index.php?id=dnws
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png", 广东卫视
+https://www.whalenas.com/mgik/index.php?id=gdws
+#EXTINF:-1 tvg-id="南方卫视" tvg-name="南方卫视" tvg-logo="https://epg.112114.xyz/logo/南方卫视.png", 南方卫视
+https://www.whalenas.com/mgik/index.php?id=nfws
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png", 广西卫视
+https://www.whalenas.com/mgik/index.php?id=gxws
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.112114.xyz/logo/云南卫视.png", 云南卫视
+https://www.whalenas.com/mgik/index.php?id=ynws
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png", 贵州卫视
+https://www.whalenas.com/mgik/index.php?id=gzws
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png", 四川卫视
+https://www.whalenas.com/mgik/index.php?id=scws
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png", 四川卫视
+https://www.whalenas.com/mgik/index.php?id=scwshd
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://epg.112114.xyz/logo/新疆卫视.png", 新疆卫视
+https://www.whalenas.com/mgik/index.php?id=xjws
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://epg.112114.xyz/logo/兵团卫视.png", 兵团卫视
+https://www.whalenas.com/mgik/index.php?id=btws
+#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://epg.112114.xyz/logo/四海钓鱼.png", 四海钓鱼
+https://www.whalenas.com/mgik/index.php?id=shdy
+#EXTINF:-1 tvg-id="江苏教育" tvg-name="江苏教育" tvg-logo="https://epg.112114.xyz/logo/江苏教育.png", 江苏教育
+https://www.whalenas.com/mgik/index.php?id=jsjy
+#EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://epg.112114.xyz/logo/山东教育卫视.png", 山东教育卫视
+https://www.whalenas.com/mgik/index.php?id=sdjy
+#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png", 游戏风云
+https://www.whalenas.com/mgik/index.php?id=yxfyhd
+#EXTINF:-1 tvg-name="东方购物" tvg-logo="https://epg.112114.xyz/logo/东方购物.png", 东方购物
+https://www.whalenas.com/mgik/index.php?id=dfgw
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场4K" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png", 欢笑剧场4K
+https://www.whalenas.com/mgik/index.php?id=hxjc
+#EXTINF:-1 tvg-name="数码时代" tvg-logo="https://epg.112114.xyz/logo/数码时代.png", 数码时代
+https://www.whalenas.com/mgik/index.php?id=smsd
+#EXTINF:-1 tvg-id="杭州综合" tvg-name="杭州综合" tvg-logo="https://epg.112114.xyz/logo/杭州综合.png", 杭州综合
+https://www.whalenas.com/mgik/index.php?id=hzzh
+#EXTINF:-1 tvg-name="杭州明珠" tvg-logo="https://epg.112114.xyz/logo/杭州明珠.png", 杭州明珠
+https://www.whalenas.com/mgik/index.php?id=hzmz
+#EXTINF:-1 tvg-id="杭州生活" tvg-name="杭州生活" tvg-logo="https://epg.112114.xyz/logo/杭州生活.png", 杭州生活
+https://www.whalenas.com/mgik/index.php?id=hzsh
+#EXTINF:-1 tvg-id="杭州影视" tvg-name="杭州影视" tvg-logo="https://epg.112114.xyz/logo/杭州影视.png", 杭州影视
+https://www.whalenas.com/mgik/index.php?id=hzys
+#EXTINF:-1 tvg-id="杭州少儿" tvg-name="杭州少儿体育" tvg-logo="https://epg.112114.xyz/logo/杭州少儿.png", 杭州少儿体育
+https://www.whalenas.com/mgik/index.php?id=hzse
+#EXTINF:-1 tvg-name="咪咕Y+" tvg-logo="https://epg.112114.xyz/logo/咪咕Y+.png", 咪咕Y+
+https://www.whalenas.com/mgik/index.php?id=Yj
+#EXTINF:-1 tvg-name="体坛名栏汇" tvg-logo="https://epg.112114.xyz/logo/体坛名栏汇.png", 体坛名栏汇
+https://www.whalenas.com/mgik/index.php?id=ttmlh
+#EXTINF:-1 tvg-id="怀旧老片" tvg-name="怀旧老片" tvg-logo="https://epg.112114.xyz/logo/怀旧老片.png", 怀旧老片
+https://www.whalenas.com/mgik/index.php?id=hjlp
+#EXTINF:-1 tvg-name="每日科幻电影" tvg-logo="https://epg.112114.xyz/logo/每日科幻电影.png", 每日科幻电影
+https://www.whalenas.com/mgik/index.php?id=mrkhdy
+#EXTINF:-1 tvg-id="神探狄仁杰" tvg-name="神探狄仁杰" tvg-logo="https://epg.112114.xyz/logo/神探狄仁杰.png", 神探狄仁杰
+https://www.whalenas.com/mgik/index.php?id=stdrj
+#EXTINF:-1 tvg-id="金庸频道" tvg-name="金庸频道" tvg-logo="https://epg.112114.xyz/logo/金庸频道.png", 金庸频道
+https://www.whalenas.com/mgik/index.php?id=jypd
+#EXTINF:-1 tvg-id="杨幂影院" tvg-name="杨幂影院" tvg-logo="https://epg.112114.xyz/logo/杨幂影院.png", 杨幂影院
+https://www.whalenas.com/mgik/index.php?id=ymyy
+#EXTINF:-1 tvg-name="深夜失眠剧场" tvg-logo="https://epg.112114.xyz/logo/深夜失眠剧场.png", 深夜失眠剧场
+https://www.whalenas.com/mgik/index.php?id=sysmjc
+#EXTINF:-1 tvg-id="高清大片" tvg-name="高清大片" tvg-logo="https://epg.112114.xyz/logo/高清大片.png", 高清大片
+https://www.whalenas.com/mgik/index.php?id=gqdp
+#EXTINF:-1 tvg-id="盗墓方法论" tvg-name="盗墓方法论" tvg-logo="https://epg.112114.xyz/logo/盗墓方法论.png", 盗墓方法论
+https://www.whalenas.com/mgik/index.php?id=dmffl
+#EXTINF:-1 tvg-id="追剧少女" tvg-name="追剧少女" tvg-logo="https://epg.112114.xyz/logo/追剧少女.png", 追剧少女
+https://www.whalenas.com/mgik/index.php?id=jzsn
+#EXTINF:-1 tvg-id="周星驰影院" tvg-name="周星驰影院" tvg-logo="https://epg.112114.xyz/logo/周星驰影院.png", 周星驰影院
+https://www.whalenas.com/mgik/index.php?id=zxcyy
+#EXTINF:-1 tvg-id="高能烧脑时刻" tvg-name="高能烧脑时刻" tvg-logo="https://epg.112114.xyz/logo/高能烧脑时刻.png", 高能烧脑时刻
+https://www.whalenas.com/mgik/index.php?id=gnsnsk
+#EXTINF:-1 tvg-name="赛事最经典" tvg-logo="https://epg.112114.xyz/logo/赛事最经典.png", 赛事最经典
+https://www.whalenas.com/mgik/index.php?id=sszjd
+#EXTINF:-1 tvg-id="新片放映厅" tvg-name="新片放映厅" tvg-logo="https://epg.112114.xyz/logo/新片放映厅.png", 新片放映厅
+https://www.whalenas.com/mgik/index.php?id=xpfyt
+#EXTINF:-1 tvg-name="热剧联播" tvg-logo="https://epg.112114.xyz/logo/热剧联播.png", 热剧联播
+https://www.whalenas.com/mgik/index.php?id=rjlb
+#EXTINF:-1 tvg-name="爱情公寓" tvg-logo="https://epg.112114.xyz/logo/爱情公寓.png", 爱情公寓
+https://www.whalenas.com/mgik/index.php?id=aqgy
+#EXTINF:-1 tvg-id="黄金剧场" tvg-name="黄金剧场" tvg-logo="https://epg.112114.xyz/logo/黄金剧场.png", 黄金剧场
+https://www.whalenas.com/mgik/index.php?id=hjinjc
+#EXTINF:-1 tvg-id="云上电影院" tvg-name="云上电影院" tvg-logo="https://epg.112114.xyz/logo/云上电影院.png", 云上电影院
+https://www.whalenas.com/mgik/index.php?id=ysdyy
+#EXTINF:-1 tvg-id="NEWTV军旅剧场" tvg-name="军旅剧场" tvg-logo="https://epg.112114.xyz/logo/NEWTV军旅剧场.png", 军旅剧场
+https://www.whalenas.com/mgik/index.php?id=jljc
+#EXTINF:-1 tvg-id="少林剧场" tvg-name="少林剧场" tvg-logo="https://epg.112114.xyz/logo/少林剧场.png", 少林剧场
+https://www.whalenas.com/mgik/index.php?id=sljc
+#EXTINF:-1 tvg-id="吴京作品集" tvg-name="吴京作品集" tvg-logo="https://epg.112114.xyz/logo/吴京作品集.png", 吴京作品集
+https://www.whalenas.com/mgik/index.php?id=wjzpj
+#EXTINF:-1 tvg-id="经典贺岁片" tvg-name="经典贺岁片" tvg-logo="https://epg.112114.xyz/logo/经典贺岁片.png", 经典贺岁片
+https://www.whalenas.com/mgik/index.php?id=jdhsp
+#EXTINF:-1 tvg-id="郭富城影院" tvg-name="郭富城影院" tvg-logo="https://epg.112114.xyz/logo/郭富城影院.png", 郭富城影院
+https://www.whalenas.com/mgik/index.php?id=gfcyy
+#EXTINF:-1 tvg-id="喜剧联盟" tvg-name="喜剧联盟" tvg-logo="https://epg.112114.xyz/logo/喜剧联盟.png", 喜剧联盟
+https://www.whalenas.com/mgik/index.php?id=xjlm
+#EXTINF:-1 tvg-id="假期剧场" tvg-name="假期剧场" tvg-logo="https://epg.112114.xyz/logo/假期剧场.png", 假期剧场
+https://www.whalenas.com/mgik/index.php?id=jqjc
+#EXTINF:-1 tvg-id="古天乐影院" tvg-name="古天乐影院" tvg-logo="https://epg.112114.xyz/logo/古天乐影院.png", 古天乐影院
+https://www.whalenas.com/mgik/index.php?id=gtlyy
+#EXTINF:-1 tvg-id="红色谍战剧场" tvg-name="红色谍战剧场" tvg-logo="https://epg.112114.xyz/logo/红色谍战剧场.png", 红色谍战剧场
+https://www.whalenas.com/mgik/index.php?id=hsdzjc
+#EXTINF:-1 tvg-id="武侠剧场" tvg-name="武侠剧场" tvg-logo="https://epg.112114.xyz/logo/武侠剧场.png", 武侠剧场
+https://www.whalenas.com/mgik/index.php?id=wxjc
+#EXTINF:-1 tvg-id="试胆大会" tvg-name="试胆大会" tvg-logo="https://epg.112114.xyz/logo/试胆大会.png", 试胆大会
+https://www.whalenas.com/mgik/index.php?id=sddh
+#EXTINF:-1 tvg-id="TVB剧场" tvg-name="TVB剧场" tvg-logo="https://epg.112114.xyz/logo/TVB剧场.png", TVB剧场
+https://www.whalenas.com/mgik/index.php?id=tvbjc
+#EXTINF:-1 tvg-id="TVB剧场" tvg-name="TVB剧场2" tvg-logo="https://epg.112114.xyz/logo/TVB剧场.png", TVB剧场2
+https://www.whalenas.com/mgik/index.php?id=tvbjc2
+#EXTINF:-1 tvg-id="周润发影院" tvg-name="周润发影院" tvg-logo="https://epg.112114.xyz/logo/周润发影院.png", 周润发影院
+https://www.whalenas.com/mgik/index.php?id=zrfyy
+#EXTINF:-1 tvg-id="僵尸剧场" tvg-name="僵尸剧场" tvg-logo="https://epg.112114.xyz/logo/僵尸剧场.png", 僵尸剧场
+https://www.whalenas.com/mgik/index.php?id=jsjc
+#EXTINF:-1 tvg-id="经典影视速看" tvg-name="经典影视速看" tvg-logo="https://epg.112114.xyz/logo/经典影视速看.png", 经典影视速看
+https://www.whalenas.com/mgik/index.php?id=jdyssk
+#EXTINF:-1 tvg-id="高分影院" tvg-name="高分影院" tvg-logo="https://epg.112114.xyz/logo/高分影院.png", 高分影院
+https://www.whalenas.com/mgik/index.php?id=gfyy
+#EXTINF:-1 tvg-id="张国荣影院" tvg-name="张国荣影院" tvg-logo="https://epg.112114.xyz/logo/张国荣影院.png", 张国荣影院
+https://www.whalenas.com/mgik/index.php?id=zgryy
+#EXTINF:-1 tvg-id="张国荣影院" tvg-name="张国荣影院2" tvg-logo="https://epg.112114.xyz/logo/张国荣影院.png", 张国荣影院2
+https://www.whalenas.com/mgik/index.php?id=zgryy2
+#EXTINF:-1 tvg-id="刘德华影院" tvg-name="刘德华影院" tvg-logo="https://epg.112114.xyz/logo/刘德华影院.png", 刘德华影院
+https://www.whalenas.com/mgik/index.php?id=ldhyy
+#EXTINF:-1 tvg-id="古龙作品集" tvg-name="古龙作品集" tvg-logo="https://epg.112114.xyz/logo/古龙作品集.png", 古龙作品集
+https://www.whalenas.com/mgik/index.php?id=glzpj
+#EXTINF:-1 tvg-id="刘亦菲影视" tvg-name="刘亦菲影视展播" tvg-logo="https://epg.112114.xyz/logo/刘亦菲影视.png", 刘亦菲影视展播
+https://www.whalenas.com/mgik/index.php?id=lyfys
+#EXTINF:-1 tvg-id="成龙作品集" tvg-name="成龙作品集" tvg-logo="https://epg.112114.xyz/logo/成龙作品集.png", 成龙作品集
+https://www.whalenas.com/mgik/index.php?id=clzpj
+#EXTINF:-1 tvg-name="葛优作品集" tvg-logo="https://epg.112114.xyz/logo/葛优作品集.png", 葛优作品集
+https://www.whalenas.com/mgik/index.php?id=gyzpj
