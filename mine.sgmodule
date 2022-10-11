@@ -16,14 +16,14 @@ DOMAIN-KEYWORD,novipnoad,DIRECT
 DOMAIN-KEYWORD,ddys,DIRECT
 
 # > Apple News
-DOMAIN,gspe1-ssl.ls.apple.com,mine
-PROCESS-NAME,News,mine
-USER-AGENT,AppleNews*,mine
-USER-AGENT,News*,mine
-USER-AGENT,com.apple.news*,mine
-DOMAIN-SUFFIX,apple.news,mine
-DOMAIN,news-assets.apple.com,mine
-DOMAIN,news-client.apple.com,mine
-DOMAIN,news-edge.apple.com,mine
-DOMAIN,news-events.apple.com,mine
-DOMAIN,apple.comscoreresearch.com,mine
+DOMAIN,gspe1-ssl.ls.apple.com,PROXY
+PROCESS-NAME,News,PROXY
+USER-AGENT,AppleNews*,PROXY
+USER-AGENT,News*,PROXY
+USER-AGENT,com.apple.news*,PROXY
+DOMAIN-SUFFIX,apple.news,PROXY
+DOMAIN,news-assets.apple.com,PROXY
+DOMAIN,news-client.apple.com,PROXY
+DOMAIN,news-edge.apple.com,PROXY
+DOMAIN,news-events.apple.com,PROXY
+DOMAIN,apple.comscoreresearch.com,PROXY
