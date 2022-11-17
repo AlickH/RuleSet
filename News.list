@@ -5,7 +5,6 @@ USER-AGENT,AppleNews*
 USER-AGENT,News*
 USER-AGENT,com.apple.news*
 DOMAIN-SUFFIX,apple.news
-DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN,news-assets.apple.com
 DOMAIN,news-client.apple.com
 DOMAIN,news-edge.apple.com
