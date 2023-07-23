@@ -7,7 +7,6 @@ DOMAIN,bit.ly
 DOMAIN,wl.dlservice.microsoft.com,force-remote-dns
 DOMAIN,officeclient.microsoft.com,force-remote-dns
 DOMAIN,apt.thebigboss.org
-DOMAIN,api.ohmygpt.com
 
 #domain-keywork-proxy
 DOMAIN-KEYWORD,renzhe
@@ -64,6 +63,8 @@ DOMAIN-KEYWORD,telegram
 DOMAIN-KEYWORD,spotify
 DOMAIN-KEYWORD,github
 
+#domain-suffix-proxy
+DOMAIN-SUFFIX,ohmygpt.com
 DOMAIN-SUFFIX,us
 DOMAIN-SUFFIX,uk
 DOMAIN-SUFFIX,jp
