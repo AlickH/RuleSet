@@ -16,6 +16,9 @@ DOMAIN-SUFFIX,adx.sogaha.cn
 
 #今日水印相机
 DOMAIN-SUFFIX,mobads-pre-config.cdn.bcebos.com
+DOMAIN-SUFFIX,mores.toponad.com
+DOMAIN-SUFFIX,adashbc.ut.taobao.com
+DOMAIN-SUFFIX,mobads-logs.baidu.com
 
 #iqiyi暂停广告
 DOMAIN-SUFFIX,cupid.iqiyi.com
