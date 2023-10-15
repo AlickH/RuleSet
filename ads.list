@@ -19,6 +19,8 @@ DOMAIN-SUFFIX,mobads-pre-config.cdn.bcebos.com
 DOMAIN-SUFFIX,mores.toponad.com
 DOMAIN-SUFFIX,adashbc.ut.taobao.com
 DOMAIN-SUFFIX,mobads-logs.baidu.com
+DOMAIN-SUFFIX,als.baidu.com
+DOMAIN-SUFFIX,wn.pos.baidu.com
 
 #iqiyi暂停广告
 DOMAIN-SUFFIX,cupid.iqiyi.com
