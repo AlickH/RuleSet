@@ -1,3 +1,5 @@
+PROCESS-NAME,*WeChat,DIRECT
+
 DOMAIN,dl.wechat.com
 DOMAIN,sglong.wechat.com
 DOMAIN,sgminorshort.wechat.com
