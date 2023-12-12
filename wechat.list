@@ -3,13 +3,9 @@ DOMAIN,sglong.wechat.com
 DOMAIN,sgminorshort.wechat.com
 DOMAIN,sgshort.wechat.com
 DOMAIN,tencentmap.wechat.com
-IP-CIDR,101.32.104.4/32,no-resolve
-IP-CIDR,101.32.104.41/32,no-resolve
-IP-CIDR,101.32.104.56/32,no-resolve
-IP-CIDR,101.32.118.25/32,no-resolve
-IP-CIDR,101.32.133.16/32,no-resolve
-IP-CIDR,101.32.133.53/32,no-resolve
-IP-CIDR,101.32.133.209/32,no-resolve
+IP-CIDR,101.32.104.0/24,no-resolve
+IP-CIDR,101.32.118.0/24,no-resolve
+IP-CIDR,101.32.133.0/24,no-resolve
 IP-CIDR,129.226.3.47/32,no-resolve
 IP-CIDR,129.226.107.244/32,no-resolve
 IP-CIDR,101.226.211.106/32,no-resolve
@@ -19,3 +15,6 @@ IP-CIDR,123.151.48.171/32,no-resolve
 IP-CIDR,162.62.163.0/24,no-resolve
 IP-CIDR,58.216.0.0/16,no-resolve
 IP-CIDR,183.131.39.0/24,no-resolve
+IP-CIDR,114.230.136.0/24,no-resolve
+IP-CIDR,117.89.177.0/24,no-resolve
+IP-CIDR,117.68.25.0/24,no-resolve
