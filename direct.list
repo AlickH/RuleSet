@@ -296,6 +296,7 @@ IP-CIDR,1.255.62.0/24,no-resolve
 DOMAIN-KEYWORD,bilibili
 DOMAIN-SUFFIX,acg.tv
 DOMAIN-SUFFIX,acgvideo.com
+DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-SUFFIX,b23.tv
 DOMAIN-SUFFIX,biliapi.com
 DOMAIN-SUFFIX,biliapi.net
