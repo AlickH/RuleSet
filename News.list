@@ -22,7 +22,9 @@ DOMAIN,news-client-search.apple.com
 URL-REGEX,^https?:\/\/news-assets\.apple\.com\/(audio-narrative|podcast\/audio)\/.*
 
 #Other US
+DOMAIN-KEYWORD,misakaf
 DOMAIN-KEYWORD,v2ex
+DOMAIN-KEYWORD,chatgpt
 DOMAIN-KEYWORD,cloudfront
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,openai
