@@ -1,5 +1,6 @@
 # > Apple News
 DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN,gspe19-ssl.ls.apple.com
 PROCESS-NAME,News
 USER-AGENT,AppleNews*
 USER-AGENT,News*
