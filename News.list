@@ -17,6 +17,7 @@ DOMAIN,newsletter-edge.apple.com
 DOMAIN,gsa.apple.com
 DOMAIN,news-todayconfig-edge.apple.com
 DOMAIN,news-client-search.apple.com
+DOMAIN,gateway.icloud.com
 DOMAIN-SUFFIX,apple.news
 DOMAIN-SUFFIX,news.apple.com
 DOMAIN-SUFFIX,itunes.apple.com
