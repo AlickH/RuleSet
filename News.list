@@ -27,6 +27,7 @@ URL-REGEX,^https?:\/\/news-assets\.apple\.com\/(audio-narrative|podcast\/audio)\
 
 #Other US
 DOMAIN-KEYWORD,misakaf
+DOMAIN-KEYWORD,pornhub
 DOMAIN-KEYWORD,v2ex
 DOMAIN-KEYWORD,chatgpt
 DOMAIN-KEYWORD,cloudfront
