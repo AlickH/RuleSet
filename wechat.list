@@ -29,3 +29,4 @@ IP-CIDR,61.170.70.0/24,no-resolve
 IP-CIDR,43.152.112.0/24,no-resolve
 IP-CIDR,58.221.35.0/24,no-resolve
 IP-CIDR,222.186.0.0/16,no-resolve
+IP-CIDR,180.101.0.0/16,no-resolve
