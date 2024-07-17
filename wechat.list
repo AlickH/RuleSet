@@ -1,5 +1,7 @@
 PROCESS-NAME,*WeChat
 
+USER-AGENT,MicroMessenger Client
+
 DOMAIN,dl.wechat.com
 DOMAIN,sglong.wechat.com
 DOMAIN,sgminorshort.wechat.com
