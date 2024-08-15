@@ -23,7 +23,7 @@ DOMAIN-SUFFIX,blizzard.com
 DOMAIN,client.amplifi.com
 DOMAIN,ip.bjango.com
 DOMAIN-SUFFIX,alphassl.com
-DOMAIN-SUFFIX,edu.cn
+DOMAIN-SUFFIX,*.cn
 
 # > Steam
 DOMAIN-SUFFIX,steamcontent.com
