@@ -34,6 +34,7 @@ DOMAIN-KEYWORD,chatgpt
 DOMAIN-KEYWORD,cloudfront
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,imgur
 DOMAIN-SUFFIX,api.mixpanel.com
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,claude.ai
