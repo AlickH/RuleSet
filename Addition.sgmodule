@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,icloud.com,PROXY
 DOMAIN-SUFFIX,ppvod02.q19jcg.com,DIRECT
 DOMAIN-SUFFIX,xlys.ltd.ua,DIRECT
 DOMAIN-SUFFIX,ai-chatbox.com,DIRECT
+DOMAIN-SUFFIX,oecloud.work.gd,DIRECT
 DOMAIN-SUFFIX,bip.cscec5b.com.cn,ECS
 IP-CIDR,172.30.211.0/24,ECS,no-resolve
 IP-CIDR,172.30.201.0/24,ECS,no-resolve
