@@ -53,3 +53,4 @@ DOMAIN-KEYWORD,log.tailscale.com,DIRECT
 DOMAIN-KEYWORD,controlplane.tailscale.com,DIRECT
 DOMAIN-KEYWORD,derp,DIRECT
 PROCESS-NAME,Tailscale,DIRECT
+DOMAIN-SUFFIX,yunti.online,PROXY
