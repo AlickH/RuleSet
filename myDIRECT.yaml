@@ -8,6 +8,12 @@ payload:
   - DOMAIN,opendeepseek.run.place
   - DOMAIN-SUFFIX,reflix.top
   - DOMAIN,armbian
+  - DOMAIN,x2
+  - DOMAIN,oec
+  - DOMAIN,mac
+  - DOMAIN,iphone
+  - DOMAIN,ipad
+  - DOMAIN,rog
   - DOMAIN-SUFFIX,laodifang.tv
   - DOMAIN-SUFFIX,aowu.tv
   - DOMAIN-SUFFIX,mucpan.cc
