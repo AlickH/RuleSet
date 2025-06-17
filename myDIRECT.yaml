@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,egoist.dev
   - DOMAIN-SUFFIX,opendeepseek.life
   - DOMAIN-KEYWORD,frp
+  - DOMAIN-KEYWORD,cpolar
   - DOMAIN,opendeepseek.run.place
   - DOMAIN-SUFFIX,reflix.top
   - DOMAIN,armbian
