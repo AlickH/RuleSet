@@ -25,6 +25,10 @@ DOMAIN-SUFFIX,adashbc.ut.taobao.com
 DOMAIN-SUFFIX,h.trace.qq.com
 DOMAIN-SUFFIX,mores.toponad.com
 DOMAIN-SUFFIX,adukwai.com
+DOMAIN,abtest.alibaba.com
+DOMAIN,h-adashx.ut.taobao.com
+DOMAIN,tls-goofish.dingtalk.com
+DOMAIN,bgg.baidu.com
 
 #iqiyi暂停广告
 DOMAIN-SUFFIX,cupid.iqiyi.com
