@@ -1,5 +1,4 @@
 #domain-apple
-DOMAIN-KEYWORD,apple
 DOMAIN,swscan.apple.com
 DOMAIN,ocsp.apple.com
 DOMAIN,apsu.apple.com // tc update
@@ -16,6 +15,7 @@ DOMAIN,iosapps.itunes.apple.com
 DOMAIN,beta.itunes.apple.com
 DOMAIN,osxapps.itunes.apple.com
 DOMAIN,identity.apple.com
+DOMAIN-SUFFIX,tv.apple.com
 DOMAIN-SUFFIX,ls.apple.com
 DOMAIN-SUFFIX,gs-loc.apple.com
 DOMAIN-SUFFIX,cdn-apple.com
