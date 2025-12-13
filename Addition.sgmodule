@@ -32,3 +32,9 @@ DOMAIN-KEYWORD,plutotv,US
 DOMAIN-KEYWORD,pluto.tv,US
 DOMAIN-KEYWORD,icloud,US
 DOMAIN-KEYWORD,local,DIRECT
+IP-CIDR,10.0.0.0/24,WG,no-resolve
+DOMAIN-SUFFIX,fnnas.net,DIRECT
+DOMAIN,mv.cpshbx.com,DIRECT
+DOMAIN,api.dandanplay.net,DIRECT
+DOMAIN,video.bwnwqq.com,DIRECT
+DOMAIN,ppvod01.blbtgg.com,DIRECT
