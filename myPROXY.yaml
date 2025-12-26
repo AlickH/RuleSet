@@ -1,3 +1,4 @@
 payload:
   - DOMAIN-SUFFIX,yunti.online
-  - DOMAIN-SUFFIX,deepwiki.com,PROXY
+  - DOMAIN-SUFFIX,deepwiki.com
+  - DOMAIN-SUFFIX,infuseku.xyz
