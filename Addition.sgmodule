@@ -1,16 +1,19 @@
 #!name=Others
 #!desc=Addition
-#!arguments=Proxy:"PROXY",Direct:"DIRECT",US:"US",Wireguard:"WG"
+#!arguments=Proxy:"PROXY",Direct:"DIRECT",US:"US",Wireguard:"WG",AI:"AI",Emby:"EMBY"
 
 [Rule]
 IP-CIDR,10.0.0.0/24,{{{Wireguard}}},no-resolve
 IP-CIDR,154.19.242.183/32,{{{Direct}}},no-resolve
 IP-CIDR,23.95.254.237/32,{{{Direct}}},no-resolve
-DOMAIN-SUFFIX,openai.com,{{{US}}}
-DOMAIN-SUFFIX,chatgpt.com,{{{US}}}
-DOMAIN-SUFFIX,claude.ai,{{{US}}}
-DOMAIN-SUFFIX,google.com,{{{US}}}
-DOMAIN-SUFFIX,googleapis.com,{{{US}}}
+IP-CIDR,18.181.165.176/24,{{{Direct}}},no-resolve
+DOMAIN-SUFFIX,openai.com,{{{AI}}}
+DOMAIN-SUFFIX,chatgpt.com,{{{AI}}}
+DOMAIN-SUFFIX,claude.ai,{{{AI}}}
+DOMAIN-SUFFIX,google.com,{{{AI}}}
+DOMAIN-SUFFIX,googleapis.com,{{{AI}}}
+DOMAIN-SUFFIX,perplexity.ai,{{{AI}}}
+DOMAIN-SUFFIX,perplexity.ai,{{{AI}}}
 DOMAIN-SUFFIX,apple-relay.apple.com,{{{US}}}
 DOMAIN-SUFFIX,local,{{{Direct}}}
 DOMAIN-SUFFIX,parsec.app,{{{Direct}}}
@@ -30,3 +33,7 @@ DOMAIN-KEYWORD,derp,{{{Direct}}}
 DOMAIN-KEYWORD,cpolar,{{{Direct}}}
 DOMAIN-KEYWORD,easytier,{{{Direct}}}
 PROCESS-NAME,Tailscale,{{{Direct}}}
+DOMAIN-SUFFIX,dytt-cinema.com,{{{Direct}}}
+DOMAIN-SUFFIX,okemby.org,{{{Emby}}}
+DOMAIN-SUFFIX,liminalnet.com,{{{Emby}}}
+DOMAIN-SUFFIX,xueshan168.top,{{{Emby}}}
