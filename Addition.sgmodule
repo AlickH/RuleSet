@@ -11,7 +11,6 @@ DOMAIN-SUFFIX,claude.ai,{{{AI}}}
 DOMAIN-SUFFIX,google.com,{{{AI}}}
 DOMAIN-SUFFIX,googleapis.com,{{{AI}}}
 DOMAIN-SUFFIX,perplexity.ai,{{{AI}}}
-DOMAIN-SUFFIX,apple-relay.apple.com,{{{US}}}
 DOMAIN-SUFFIX,local,{{{Direct}}}
 DOMAIN-SUFFIX,parsec.app,{{{Direct}}}
 DOMAIN-SUFFIX,gptgod.online,{{{Direct}}}
@@ -30,7 +29,6 @@ DOMAIN-KEYWORD,derp,{{{Direct}}}
 DOMAIN-KEYWORD,cpolar,{{{Direct}}}
 DOMAIN-KEYWORD,easytier,{{{Direct}}}
 PROCESS-NAME,Tailscale,{{{Direct}}}
-DOMAIN-SUFFIX,dytt-cinema.com,{{{Direct}}}
 DOMAIN-SUFFIX,okemby.org,{{{Emby}}}
 DOMAIN-SUFFIX,liminalnet.com,{{{Emby}}}
 DOMAIN-SUFFIX,xueshan168.top,{{{Emby}}}
