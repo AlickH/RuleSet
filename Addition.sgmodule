@@ -4,15 +4,12 @@
 
 [Rule]
 IP-CIDR,10.0.0.0/24,{{{Wireguard}}},no-resolve
-IP-CIDR,154.19.242.183/32,{{{Direct}}},no-resolve
-IP-CIDR,23.95.254.237/32,{{{Direct}}},no-resolve
-IP-CIDR,18.181.165.176/24,{{{Direct}}},no-resolve
+IP-CIDR,47.100.214.249/32,{{{Direct}}},no-resolve
 DOMAIN-SUFFIX,openai.com,{{{AI}}}
 DOMAIN-SUFFIX,chatgpt.com,{{{AI}}}
 DOMAIN-SUFFIX,claude.ai,{{{AI}}}
 DOMAIN-SUFFIX,google.com,{{{AI}}}
 DOMAIN-SUFFIX,googleapis.com,{{{AI}}}
-DOMAIN-SUFFIX,perplexity.ai,{{{AI}}}
 DOMAIN-SUFFIX,perplexity.ai,{{{AI}}}
 DOMAIN-SUFFIX,apple-relay.apple.com,{{{US}}}
 DOMAIN-SUFFIX,local,{{{Direct}}}
