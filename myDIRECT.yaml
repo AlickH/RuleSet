@@ -1,28 +1,30 @@
 payload:
-  - DOMAIN-SUFFIX,tailc12e.ts.net
-  - DOMAIN-SUFFIX,parsec.app
-  - DOMAIN-KEYWORD,frp
-  - DOMAIN-SUFFIX,reflix.top
-  - DOMAIN-SUFFIX,laodifang.tv
-  - DOMAIN-SUFFIX,aowu.tv
-  - DOMAIN-SUFFIX,mucpan.cc
-  - DOMAIN,4k-av.com
-  - DOMAIN-SUFFIX,ppvod02.q19jcg.com
-  - DOMAIN-SUFFIX,gptgod.online
-  - IP-CIDR,23.95.254.237/32,no-resolve
+  - IP-CIDR,10.126.126.0/24,no-resolve
   - IP-CIDR,154.19.242.0/24,no-resolve
+  - IP-CIDR,23.95.254.237/32,no-resolve
+  - IP-CIDR,47.100.214.249/32,no-resolve
   - IP-CIDR,54.172.152.193/32,no-resolve
-  - DOMAIN-SUFFIX,local
   - DOMAIN-SUFFIX,663407.xyz
   - DOMAIN-SUFFIX,alickcreate.app
-  - DOMAIN-SUFFIX,ts.net
-  - DOMAIN-SUFFIX,tailscale.net
-  - DOMAIN-SUFFIX,fnnas.net
-  - DOMAIN-SUFFIX,mv.cpshbx.com
+  - DOMAIN-SUFFIX,aowu.tv
   - DOMAIN-SUFFIX,api.dandanplay.net
-  - DOMAIN-SUFFIX,video.bwnwqq.com
+  - DOMAIN-SUFFIX,fnnas.net
+  - DOMAIN-SUFFIX,gptgod.online
+  - DOMAIN-SUFFIX,laodifang.tv
+  - DOMAIN-SUFFIX,local
+  - DOMAIN-SUFFIX,mucpan.cc
+  - DOMAIN-SUFFIX,mv.cpshbx.com
+  - DOMAIN-SUFFIX,parsec.app
   - DOMAIN-SUFFIX,ppvod01.blbtgg.com
-  - DOMAIN-KEYWORD,derp
-  - DOMAIN-KEYWORD,cpolar
-  - DOMAIN-KEYWORD,easytier
+  - DOMAIN-SUFFIX,ppvod02.q19jcg.com
+  - DOMAIN-SUFFIX,reflix.top
+  - DOMAIN-SUFFIX,tailscale.net
+  - DOMAIN-SUFFIX,ts.net
+  - DOMAIN-SUFFIX,video.bwnwqq.com
+  - DOMAIN,4k-av.com
   - DOMAIN,api.185101.xyz
+  - DOMAIN-KEYWORD,cpolar
+  - DOMAIN-KEYWORD,derp
+  - DOMAIN-KEYWORD,easytier
+  - DOMAIN-KEYWORD,frp
+  - PROCESS-NAME,Tailscale

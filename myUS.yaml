@@ -1,12 +1,11 @@
 payload:
   - DOMAIN-SUFFIX,imgur.com
-  - DOMAIN-SUFFIX,x.com
-  - DOMAIN-SUFFIX,onyra.uk
-  - DOMAIN-SUFFIX,okemby.org
   - DOMAIN-SUFFIX,liminalnet.com
+  - DOMAIN-SUFFIX,okemby.org
+  - DOMAIN-SUFFIX,onyra.uk
+  - DOMAIN-SUFFIX,x.com
   - DOMAIN-SUFFIX,xueshan168.top
-  - DOMAIN-KEYWORD,plutotv
-  - DOMAIN-KEYWORD,pluto.tv
-  - DOMAIN-KEYWORD,pornhub
   - DOMAIN-KEYWORD,phncdn
-  
+  - DOMAIN-KEYWORD,pluto.tv
+  - DOMAIN-KEYWORD,plutotv
+  - DOMAIN-KEYWORD,pornhub
