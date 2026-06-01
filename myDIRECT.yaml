@@ -11,3 +11,16 @@ payload:
   - DOMAIN-SUFFIX,gptgod.online
   - IP-CIDR,23.95.254.237/32,no-resolve
   - IP-CIDR,154.19.242.0/24,no-resolve
+  - DOMAIN-SUFFIX,local
+  - DOMAIN-SUFFIX,663407.xyz
+  - DOMAIN-SUFFIX,ts.net
+  - DOMAIN-SUFFIX,tailscale.net
+  - DOMAIN-SUFFIX,fnnas.net
+  - DOMAIN-SUFFIX,mv.cpshbx.com
+  - DOMAIN-SUFFIX,api.dandanplay.net
+  - DOMAIN-SUFFIX,video.bwnwqq.com
+  - DOMAIN-SUFFIX,ppvod01.blbtgg.com
+  - DOMAIN-KEYWORD,derp
+  - DOMAIN-KEYWORD,cpolar
+  - DOMAIN-KEYWORD,easytier
+  - DOMAIN,api.185101.xyz
