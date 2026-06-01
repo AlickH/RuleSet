@@ -17,3 +17,10 @@ PROCESS-NAME,Tailscale
 IP-CIDR,54.172.152.193/32,no-resolve
 DOMAIN,api.185101.xyz
 IP-CIDR,10.126.126.0/24,no-resolve
+DOMAIN-KEYWORD,frp
+DOMAIN-SUFFIX,reflix.top
+DOMAIN-SUFFIX,laodifang.tv
+DOMAIN-SUFFIX,aowu.tv
+DOMAIN-SUFFIX,mucpan.cc
+DOMAIN,4k-av.com
+DOMAIN-SUFFIX,ppvod02.q19jcg.com
