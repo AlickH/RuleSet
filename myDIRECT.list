@@ -5,6 +5,11 @@ IP-CIDR,47.100.214.249/32,no-resolve
 IP-CIDR,54.172.152.193/32,no-resolve
 DOMAIN-SUFFIX,663407.xyz
 DOMAIN-SUFFIX,alickcreate.app
+DOMAIN-SUFFIX,ai.1246.mom
+DOMAIN-SUFFIX,api.aiyahmm.com
+DOMAIN-SUFFIX,botcf.com
+DOMAIN-SUFFIX,mikuapi.org
+DOMAIN-SUFFIX,api.185101.xyz
 DOMAIN-SUFFIX,aowu.tv
 DOMAIN-SUFFIX,api.dandanplay.net
 DOMAIN-SUFFIX,fnnas.net
@@ -20,8 +25,7 @@ DOMAIN-SUFFIX,reflix.top
 DOMAIN-SUFFIX,tailscale.net
 DOMAIN-SUFFIX,ts.net
 DOMAIN-SUFFIX,video.bwnwqq.com
-DOMAIN,4k-av.com
-DOMAIN,api.185101.xyz
+DOMAIN-SUFFIX,4k-av.com
 DOMAIN-KEYWORD,cpolar
 DOMAIN-KEYWORD,derp
 DOMAIN-KEYWORD,easytier
